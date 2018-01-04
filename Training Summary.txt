@@ -1,0 +1,31 @@
+            Training   Validation     Test             
+Epoch       Accuracy   Accuracy    Accuracy
+4 epoch   |   .9857   |   .9838   |   ------
+6 epoch   |   .9895   |   .9852   |   .98628
+8 epoch   |   .9926   |   .9871   |    -----
+10 epoch  |   .9940   |   .9847   |   .98357
+12 epoch  |   .9951   |   .9876   |   .98685
+14 epoch  |   .9959   |   .9842   |   .98714
+16 epoch  |   .9968   |   .9842   |   .98600
+18 epoch  |   .9969   |   .9867   |   .98485
+20 epoch  |   .9979   |   .9876   |   .98757
+22 epoch  |   .9980   |   .9876   |   .98614
+24 epoch  |   .9977   |   .9899   |   .98757
+28 epoch  |   .9979   |   .9871   |   .98614
+30 epoch  |   .9986   |   .9890   |   .98857
+34 epoch  |   .9984   |   .9890   |   ------
+
+Using Dropout and Batch Normalization
+
+             Training   Validation     Test
+Epoch        Accuracy   Accuracy    Accuracy
+10 epoch  |   .9915   |   .9885   |   ------
+12 epoch  |   .9928   |   .9885   |   .98757
+14 epoch  |   .9940   |   .9876   |   .98514
+18 epoch  |   .9969   |   .9867   |   .98485
+22 epoch  |   .9962   |   .9885   |   .98800
+26 epoch  |   .9969   |   .9880   |   .98957
+29 epoch  |   .9970   |   .9890   |   .99171
+31 epoch  |   .9972   |   .9885   |   .99028
+32 epoch  |   .9972   |   .9909   |   .99285
+34 epoch  |   .9977   |   .9914   |   .98914
