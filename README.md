@@ -16,6 +16,6 @@ The training data set, (train.csv), has 785 columns. The first column, called "l
 CNN model having similar structure to LeNet5 model with an added layer was used for classification process. The model was developed on Keras Framework using TensorFlow backend. The prediction accuracy of model without regularization was around 98% on the test set but was not able to reach human level performance as it overfitted the training set data. Dropout regularisation and batch normalization was used to address the issue of overfitting and increase the prediction score. The regularised model performed better than the other model and was able to get 99.285% prediction accuracy
 
 ## Conclusion
-Our model was able to gain close to human-level performance on the handwritten digit recognition task.
+The model was able to gain close to human-level performance on the handwritten digit recognition task.
 Dropout or L2 regularisation can be effective for models that are overfitting on the training data and are performing poorly on the validation and test set. 
 Batch normalization can also be used to increase the prediction accuracy of our model.
